@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    count = 20.0;
+    count = 4.0;
     
     // UIImageを指定した生成例
     UIImage *image = [UIImage imageNamed:@"円.png"];

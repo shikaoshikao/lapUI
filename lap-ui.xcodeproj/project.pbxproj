@@ -27,6 +27,7 @@
 		D4B4A2B41C07A58E0056B7E1 /* ViewControllerReady.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B31C07A58E0056B7E1 /* ViewControllerReady.m */; };
 		D4B4A2B71C07D59D0056B7E1 /* ViewControllerPass.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */; };
 		D4B4A2BB1C07DDAC0056B7E1 /* 円.png in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2BA1C07DDAC0056B7E1 /* 円.png */; };
+		D4B4A2BE1C07F6DC0056B7E1 /* ViewControllerPreview.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2BD1C07F6DC0056B7E1 /* ViewControllerPreview.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,8 @@
 		D4B4A2B51C07D59D0056B7E1 /* ViewControllerPass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPass.h; sourceTree = "<group>"; };
 		D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPass.m; sourceTree = "<group>"; };
 		D4B4A2BA1C07DDAC0056B7E1 /* 円.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "円.png"; sourceTree = "<group>"; };
+		D4B4A2BC1C07F6DC0056B7E1 /* ViewControllerPreview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPreview.h; sourceTree = "<group>"; };
+		D4B4A2BD1C07F6DC0056B7E1 /* ViewControllerPreview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPreview.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,13 +116,15 @@
 			children = (
 				D4B4A2781C0765DB0056B7E1 /* AppDelegate.h */,
 				D4B4A2791C0765DB0056B7E1 /* AppDelegate.m */,
+				D4B4A27E1C0765DB0056B7E1 /* Main.storyboard */,
 				D4B4A27B1C0765DB0056B7E1 /* ViewController.h */,
 				D4B4A27C1C0765DB0056B7E1 /* ViewController.m */,
 				D4B4A2A21C0771B60056B7E1 /* ViewControllerWating.h */,
 				D4B4A2A31C0771B60056B7E1 /* ViewControllerWating.m */,
 				D4B4A2AF1C07791D0056B7E1 /* ViewControllerPictures.h */,
 				D4B4A2B01C07791D0056B7E1 /* ViewControllerPictures.m */,
-				D4B4A27E1C0765DB0056B7E1 /* Main.storyboard */,
+				D4B4A2BC1C07F6DC0056B7E1 /* ViewControllerPreview.h */,
+				D4B4A2BD1C07F6DC0056B7E1 /* ViewControllerPreview.m */,
 				D4B4A2B51C07D59D0056B7E1 /* ViewControllerPass.h */,
 				D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */,
 				D4B4A2B21C07A58E0056B7E1 /* ViewControllerReady.h */,
@@ -278,6 +283,7 @@
 				D4B4A2B11C07791D0056B7E1 /* ViewControllerPictures.m in Sources */,
 				D4B4A27D1C0765DB0056B7E1 /* ViewController.m in Sources */,
 				D4B4A27A1C0765DB0056B7E1 /* AppDelegate.m in Sources */,
+				D4B4A2BE1C07F6DC0056B7E1 /* ViewControllerPreview.m in Sources */,
 				D4B4A2A41C0771B60056B7E1 /* ViewControllerWating.m in Sources */,
 				D4B4A2B41C07A58E0056B7E1 /* ViewControllerReady.m in Sources */,
 				D4B4A2771C0765DB0056B7E1 /* main.m in Sources */,

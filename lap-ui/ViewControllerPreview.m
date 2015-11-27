@@ -1,27 +1,22 @@
 //
-//  ViewController.m
+//  ViewControllerPreview.m
 //  lap-ui
 //
-//  Created by yoshikik on 2015/11/26.
+//  Created by yoshikik on 2015/11/27.
 //  Copyright (c) 2015年 Yoshiki Kawakita. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ViewControllerPreview.h"
 
-@interface ViewController ()
+@interface ViewControllerPreview ()
 
 @end
 
-@implementation ViewController
+@implementation ViewControllerPreview
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-    
-//    UIButton *btn= [UIButton  buttonWithType:UIButtonTypeRoundedRect];
-    [btn setFrame:CGRectMake(0.0, 0.0, 100.0, 50.0)];
-    [btn setCenter:CGPointMake(160.0, 200.0)];
-    [btn setTitle:@"Welcome" forState:UIControlStateNormal];
+    // Do any additional setup after loading the view.
     [btn addTarget:self action:@selector(startAnimation:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
     [self startAnimation:btn];
@@ -45,7 +40,7 @@
     [btn setAlpha:0.0];
     
     // アニメーション開始
-    [UIView commitAnimations];	
+    [UIView commitAnimations];
 }
 
 
@@ -73,5 +68,15 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+/*
+#pragma mark - Navigation
+
+// In a storyboard-based application, you will often want to do a little preparation before navigation
+- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    // Get the new view controller using [segue destinationViewController].
+    // Pass the selected object to the new view controller.
+}
+*/
 
 @end
