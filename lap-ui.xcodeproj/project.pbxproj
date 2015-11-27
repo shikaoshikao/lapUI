@@ -14,6 +14,18 @@
 		D4B4A2821C0765DB0056B7E1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2811C0765DB0056B7E1 /* Images.xcassets */; };
 		D4B4A2851C0765DB0056B7E1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2831C0765DB0056B7E1 /* LaunchScreen.xib */; };
 		D4B4A2911C0765DB0056B7E1 /* lap_uiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2901C0765DB0056B7E1 /* lap_uiTests.m */; };
+		D4B4A29D1C0768E20056B7E1 /* lap_看板の図.png in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A29C1C0768E20056B7E1 /* lap_看板の図.png */; };
+		D4B4A29F1C076C0B0056B7E1 /* lap_看板の図 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A29E1C076C0B0056B7E1 /* lap_看板の図 (1).png */; };
+		D4B4A2A11C076FE80056B7E1 /* lap_看板の図 (2).png in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2A01C076FE80056B7E1 /* lap_看板の図 (2).png */; };
+		D4B4A2A41C0771B60056B7E1 /* ViewControllerWating.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2A31C0771B60056B7E1 /* ViewControllerWating.m */; };
+		D4B4A2A61C0776E10056B7E1 /* S__22618116.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2A51C0776E10056B7E1 /* S__22618116.jpg */; };
+		D4B4A2A81C0776EA0056B7E1 /* S__22618117.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2A71C0776EA0056B7E1 /* S__22618117.jpg */; };
+		D4B4A2AA1C07781A0056B7E1 /* S__22618120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2A91C07781A0056B7E1 /* S__22618120.jpg */; };
+		D4B4A2AC1C0778200056B7E1 /* S__22618118.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2AB1C0778200056B7E1 /* S__22618118.jpg */; };
+		D4B4A2AE1C0778240056B7E1 /* S__22618119.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2AD1C0778240056B7E1 /* S__22618119.jpg */; };
+		D4B4A2B11C07791D0056B7E1 /* ViewControllerPictures.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B01C07791D0056B7E1 /* ViewControllerPictures.m */; };
+		D4B4A2B41C07A58E0056B7E1 /* ViewControllerReady.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B31C07A58E0056B7E1 /* ViewControllerReady.m */; };
+		D4B4A2B71C07D59D0056B7E1 /* ViewControllerPass.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +52,22 @@
 		D4B4A28A1C0765DB0056B7E1 /* lap-uiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "lap-uiTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B4A28F1C0765DB0056B7E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4B4A2901C0765DB0056B7E1 /* lap_uiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lap_uiTests.m; sourceTree = "<group>"; };
+		D4B4A29C1C0768E20056B7E1 /* lap_看板の図.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lap_看板の図.png"; sourceTree = "<group>"; };
+		D4B4A29E1C076C0B0056B7E1 /* lap_看板の図 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lap_看板の図 (1).png"; sourceTree = "<group>"; };
+		D4B4A2A01C076FE80056B7E1 /* lap_看板の図 (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lap_看板の図 (2).png"; sourceTree = "<group>"; };
+		D4B4A2A21C0771B60056B7E1 /* ViewControllerWating.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerWating.h; sourceTree = "<group>"; };
+		D4B4A2A31C0771B60056B7E1 /* ViewControllerWating.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerWating.m; sourceTree = "<group>"; };
+		D4B4A2A51C0776E10056B7E1 /* S__22618116.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = S__22618116.jpg; sourceTree = "<group>"; };
+		D4B4A2A71C0776EA0056B7E1 /* S__22618117.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = S__22618117.jpg; sourceTree = "<group>"; };
+		D4B4A2A91C07781A0056B7E1 /* S__22618120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = S__22618120.jpg; sourceTree = "<group>"; };
+		D4B4A2AB1C0778200056B7E1 /* S__22618118.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = S__22618118.jpg; sourceTree = "<group>"; };
+		D4B4A2AD1C0778240056B7E1 /* S__22618119.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = S__22618119.jpg; sourceTree = "<group>"; };
+		D4B4A2AF1C07791D0056B7E1 /* ViewControllerPictures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPictures.h; sourceTree = "<group>"; };
+		D4B4A2B01C07791D0056B7E1 /* ViewControllerPictures.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPictures.m; sourceTree = "<group>"; };
+		D4B4A2B21C07A58E0056B7E1 /* ViewControllerReady.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerReady.h; sourceTree = "<group>"; };
+		D4B4A2B31C07A58E0056B7E1 /* ViewControllerReady.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerReady.m; sourceTree = "<group>"; };
+		D4B4A2B51C07D59D0056B7E1 /* ViewControllerPass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPass.h; sourceTree = "<group>"; };
+		D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,9 +113,25 @@
 				D4B4A2791C0765DB0056B7E1 /* AppDelegate.m */,
 				D4B4A27B1C0765DB0056B7E1 /* ViewController.h */,
 				D4B4A27C1C0765DB0056B7E1 /* ViewController.m */,
+				D4B4A2A21C0771B60056B7E1 /* ViewControllerWating.h */,
+				D4B4A2A31C0771B60056B7E1 /* ViewControllerWating.m */,
+				D4B4A2AF1C07791D0056B7E1 /* ViewControllerPictures.h */,
+				D4B4A2B01C07791D0056B7E1 /* ViewControllerPictures.m */,
 				D4B4A27E1C0765DB0056B7E1 /* Main.storyboard */,
+				D4B4A2B51C07D59D0056B7E1 /* ViewControllerPass.h */,
+				D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */,
+				D4B4A2B21C07A58E0056B7E1 /* ViewControllerReady.h */,
+				D4B4A2B31C07A58E0056B7E1 /* ViewControllerReady.m */,
 				D4B4A2811C0765DB0056B7E1 /* Images.xcassets */,
 				D4B4A2831C0765DB0056B7E1 /* LaunchScreen.xib */,
+				D4B4A2A51C0776E10056B7E1 /* S__22618116.jpg */,
+				D4B4A2A71C0776EA0056B7E1 /* S__22618117.jpg */,
+				D4B4A2AB1C0778200056B7E1 /* S__22618118.jpg */,
+				D4B4A2AD1C0778240056B7E1 /* S__22618119.jpg */,
+				D4B4A2A91C07781A0056B7E1 /* S__22618120.jpg */,
+				D4B4A2A01C076FE80056B7E1 /* lap_看板の図 (2).png */,
+				D4B4A29C1C0768E20056B7E1 /* lap_看板の図.png */,
+				D4B4A29E1C076C0B0056B7E1 /* lap_看板の図 (1).png */,
 				D4B4A2741C0765DB0056B7E1 /* Supporting Files */,
 			);
 			path = "lap-ui";
@@ -199,9 +243,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4B4A2AC1C0778200056B7E1 /* S__22618118.jpg in Resources */,
+				D4B4A2AA1C07781A0056B7E1 /* S__22618120.jpg in Resources */,
+				D4B4A29F1C076C0B0056B7E1 /* lap_看板の図 (1).png in Resources */,
+				D4B4A2AE1C0778240056B7E1 /* S__22618119.jpg in Resources */,
+				D4B4A2A61C0776E10056B7E1 /* S__22618116.jpg in Resources */,
 				D4B4A2801C0765DB0056B7E1 /* Main.storyboard in Resources */,
+				D4B4A2A81C0776EA0056B7E1 /* S__22618117.jpg in Resources */,
 				D4B4A2851C0765DB0056B7E1 /* LaunchScreen.xib in Resources */,
+				D4B4A29D1C0768E20056B7E1 /* lap_看板の図.png in Resources */,
 				D4B4A2821C0765DB0056B7E1 /* Images.xcassets in Resources */,
+				D4B4A2A11C076FE80056B7E1 /* lap_看板の図 (2).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +271,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4B4A2B11C07791D0056B7E1 /* ViewControllerPictures.m in Sources */,
 				D4B4A27D1C0765DB0056B7E1 /* ViewController.m in Sources */,
 				D4B4A27A1C0765DB0056B7E1 /* AppDelegate.m in Sources */,
+				D4B4A2A41C0771B60056B7E1 /* ViewControllerWating.m in Sources */,
+				D4B4A2B41C07A58E0056B7E1 /* ViewControllerReady.m in Sources */,
 				D4B4A2771C0765DB0056B7E1 /* main.m in Sources */,
+				D4B4A2B71C07D59D0056B7E1 /* ViewControllerPass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
