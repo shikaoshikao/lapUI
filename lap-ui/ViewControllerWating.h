@@ -11,6 +11,10 @@
 @interface ViewControllerWating : UIViewController{
     int count;
     NSTimer *timer;
+    IBOutlet UIImageView *iv;
+    CALayer *layer;
+    CABasicAnimation* animation;
+    
 
 }
 

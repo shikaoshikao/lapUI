@@ -26,6 +26,7 @@
 		D4B4A2B11C07791D0056B7E1 /* ViewControllerPictures.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B01C07791D0056B7E1 /* ViewControllerPictures.m */; };
 		D4B4A2B41C07A58E0056B7E1 /* ViewControllerReady.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B31C07A58E0056B7E1 /* ViewControllerReady.m */; };
 		D4B4A2B71C07D59D0056B7E1 /* ViewControllerPass.m in Sources */ = {isa = PBXBuildFile; fileRef = D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */; };
+		D4B4A2BB1C07DDAC0056B7E1 /* 円.png in Resources */ = {isa = PBXBuildFile; fileRef = D4B4A2BA1C07DDAC0056B7E1 /* 円.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		D4B4A2B31C07A58E0056B7E1 /* ViewControllerReady.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerReady.m; sourceTree = "<group>"; };
 		D4B4A2B51C07D59D0056B7E1 /* ViewControllerPass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPass.h; sourceTree = "<group>"; };
 		D4B4A2B61C07D59D0056B7E1 /* ViewControllerPass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPass.m; sourceTree = "<group>"; };
+		D4B4A2BA1C07DDAC0056B7E1 /* 円.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "円.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				D4B4A2AB1C0778200056B7E1 /* S__22618118.jpg */,
 				D4B4A2AD1C0778240056B7E1 /* S__22618119.jpg */,
 				D4B4A2A91C07781A0056B7E1 /* S__22618120.jpg */,
+				D4B4A2BA1C07DDAC0056B7E1 /* 円.png */,
 				D4B4A2A01C076FE80056B7E1 /* lap_看板の図 (2).png */,
 				D4B4A29C1C0768E20056B7E1 /* lap_看板の図.png */,
 				D4B4A29E1C076C0B0056B7E1 /* lap_看板の図 (1).png */,
@@ -249,6 +252,7 @@
 				D4B4A2AE1C0778240056B7E1 /* S__22618119.jpg in Resources */,
 				D4B4A2A61C0776E10056B7E1 /* S__22618116.jpg in Resources */,
 				D4B4A2801C0765DB0056B7E1 /* Main.storyboard in Resources */,
+				D4B4A2BB1C07DDAC0056B7E1 /* 円.png in Resources */,
 				D4B4A2A81C0776EA0056B7E1 /* S__22618117.jpg in Resources */,
 				D4B4A2851C0765DB0056B7E1 /* LaunchScreen.xib in Resources */,
 				D4B4A29D1C0768E20056B7E1 /* lap_看板の図.png in Resources */,

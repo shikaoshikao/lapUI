@@ -57,9 +57,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lap_看板の図 (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="2Gl-d0-shI">
-                                <rect key="frame" x="-149" y="439" width="720" height="720"/>
-                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Please enter your password" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ud8-eI-cvp">
                                 <rect key="frame" x="34" y="119" width="680" height="103"/>
                                 <fontDescription key="fontDescription" name="BodoniSvtyTwoITCTT-BookIta" family="Bodoni 72" pointSize="60"/>
@@ -82,6 +79,9 @@
                                     <segue destination="LYB-yb-wCn" kind="modal" id="1mh-jb-j8X"/>
                                 </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lap_看板の図 (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="2Gl-d0-shI">
+                                <rect key="frame" x="-149" y="439" width="720" height="720"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -131,7 +131,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZDN-XJ-4XB" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1965" y="271"/>
+            <point key="canvasLocation" x="1839" y="205"/>
         </scene>
         <!--View Controller Ready-->
         <scene sceneID="QvR-9I-NWK">
@@ -292,7 +292,7 @@ CDw
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jfu-P3-C0p" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-301" y="-216"/>
+            <point key="canvasLocation" x="97" y="-761"/>
         </scene>
     </scenes>
     <resources>
