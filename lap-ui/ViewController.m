@@ -19,12 +19,17 @@
     // Do any additional setup after loading the view, typically from a nib.
     
 //    UIButton *btn= [UIButton  buttonWithType:UIButtonTypeRoundedRect];
-    [btn setFrame:CGRectMake(0.0, 0.0, 100.0, 50.0)];
-    [btn setCenter:CGPointMake(160.0, 200.0)];
-    [btn setTitle:@"Welcome" forState:UIControlStateNormal];
+//    [btn setFrame:CGRectMake(0.0, 0.0, 100.0, 50.0)];
+//    [btn setCenter:CGPointMake(160.0, 200.0)];
+//    [btn setTitle:@"Welcome" forState:UIControlStateNormal];
     [btn addTarget:self action:@selector(startAnimation:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+
     [self startAnimation:btn];
+
 }
 
 -(void)startAnimation:(id)sender{

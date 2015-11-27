@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
     [btn addTarget:self action:@selector(startAnimation:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
+    }
+-(void)viewDidAppear:(BOOL)animated{
     [self startAnimation:btn];
 }
 
