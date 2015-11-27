@@ -16,9 +16,15 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+//    count = 3.0;
+//    [self thread];
+}
+
+- (void)viewDidAppear:(BOOL)animated {
     count = 3.0;
     [self thread];
 }
+
 
 - (void) thread {
     timer = [NSTimer scheduledTimerWithTimeInterval:(1.0)

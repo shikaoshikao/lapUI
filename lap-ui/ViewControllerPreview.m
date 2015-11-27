@@ -21,6 +21,7 @@
     [self.view addSubview:btn];
     }
 -(void)viewDidAppear:(BOOL)animated{
+    [btn setAlpha:1.0];
     [self startAnimation:btn];
 }
 
